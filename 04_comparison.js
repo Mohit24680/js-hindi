@@ -12,6 +12,6 @@
 // console.log(undefined<0); 
 
 console.log("2"===2);
-// Double equal: The double equal(‘==’) operator tests for abstract equality i.e. it does the necessary type conversions before doing the equality comparison.
+/* Double equal: The double equal(‘==’) operator tests for abstract equality i.e. it does the necessary type conversions before doing the equality comparison.*/
 
-// Triple equal: The triple equal(‘===’) operator tests for strict equality i.e it will not do the type conversion hence if the two values are not of the same type, when compared, it will return false. 
+/* Triple equal: The triple equal(‘===’) operator tests for strict equality i.e it will not do the type conversion hence if the two values are not of the same type, when compared, it will return false.*/ 
