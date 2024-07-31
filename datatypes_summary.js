@@ -4,7 +4,7 @@
 const id = Symbol("123");
 const anotherId = Symbol("123");
 
-console.log(id === anotherId);
+console.log(id === anotherId); //output is false
 // example of BigInt
 const bigNumber = 34556677883n;
 // Primitive
